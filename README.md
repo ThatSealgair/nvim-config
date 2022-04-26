@@ -8,8 +8,12 @@ I may create a quick BASH script later to automate the installation process.
 
 [Node.js](https://nodejs.org/en/)
 
+[Lua](https://www.lua.org/)
+
 ## C and Rust Programming
 CMake
+
+[Rust](https://www.rust-lang.org/)
 
 ## LaTeX Document Writing
 [Zathura](https://github.com/pwmt/zathura)
